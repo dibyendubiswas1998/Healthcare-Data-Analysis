@@ -5,5 +5,5 @@
 * Find key metrics and factors and show the meaningful relationships between attributes. 
 * Do your own research and come up with your findings.<br>
 
-**Note:** Here I create Power BI dashboard as well as reports.<br><br>
+**Note:** Here I use Python for creating Reports.<br><br>
 
