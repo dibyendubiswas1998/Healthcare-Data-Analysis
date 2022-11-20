@@ -10,11 +10,13 @@
 
 ### About Data or Data Descriptions:
 **Dataset:** https://github.com/dibyendubiswas1998/Healthcare-Data-Analysis/tree/main/DATA<br>
-**Link:** https://github.com/dibyendubiswas1998/Healthcare-Data-Analysis/tree/main/Data%20Descriptions <br>
+**Description Link:** https://github.com/dibyendubiswas1998/Healthcare-Data-Analysis/tree/main/Data%20Descriptions <br>
 
-**Python Code:** https://github.com/dibyendubiswas1998/Healthcare-Data-Analysis/tree/main/Python%20Code <br>
+### Python Code:
+**Link:** https://github.com/dibyendubiswas1998/Healthcare-Data-Analysis/tree/main/Python%20Code <br>
 
-**Detailed Project Report:** https://github.com/dibyendubiswas1998/Healthcare-Data-Analysis/blob/main/Detail%20Project%20Report/detail%20report.pdf <br>
+### Detailed Project Report
+**report Link:** https://github.com/dibyendubiswas1998/Healthcare-Data-Analysis/blob/main/Detail%20Project%20Report/detail%20report.pdf <br>
 
 
 
